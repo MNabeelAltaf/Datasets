@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>young_validate_pic(27).jpg</filename>
+	<path>/my-project-name/young_validate_pic(27).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>young</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>181</ymin>
+			<xmax>424</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

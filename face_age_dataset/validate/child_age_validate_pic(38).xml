@@ -1,0 +1,25 @@
+<annotation>
+	<folder>child_validate</folder>
+	<filename>child_age_validate_pic(38).jpg</filename>
+	<path>/child_validate/child_age_validate_pic(38).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>369</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>5</ymin>
+			<xmax>357</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

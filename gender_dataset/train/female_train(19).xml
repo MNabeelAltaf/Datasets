@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>female_train(19).jpg</filename>
+	<path>/my-project-name/female_train(19).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>801</width>
+		<height>1112</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>18</ymin>
+			<xmax>773</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

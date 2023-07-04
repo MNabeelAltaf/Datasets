@@ -1,0 +1,25 @@
+<annotation>
+	<folder>teen_train</folder>
+	<filename>teen_age_train_pic(1).jpg</filename>
+	<path>/teen_train/teen_age_train_pic(1).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>teen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>5</ymin>
+			<xmax>190</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

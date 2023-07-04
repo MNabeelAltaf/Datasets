@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>neutral_validate(8).jpg</filename>
+	<path>/my-project-name/neutral_validate(8).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>238</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>62</ymin>
+			<xmax>181</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

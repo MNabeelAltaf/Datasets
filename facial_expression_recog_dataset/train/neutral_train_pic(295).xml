@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>neutral_train_pic(295).JPG</filename>
+	<path>/my-project-name/neutral_train_pic(295).JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1567</width>
+		<height>1567</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>194</ymin>
+			<xmax>1370</xmax>
+			<ymax>1455</ymax>
+		</bndbox>
+	</object>
+</annotation>

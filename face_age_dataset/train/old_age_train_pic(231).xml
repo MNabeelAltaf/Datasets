@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>old_age_train_pic(231).jpg</filename>
+	<path>/my-project-name/old_age_train_pic(231).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>294</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>old</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>11</ymin>
+			<xmax>235</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

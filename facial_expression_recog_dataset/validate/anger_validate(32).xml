@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>anger_validate(32).jpg</filename>
+	<path>/my-project-name/anger_validate(32).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>59</ymin>
+			<xmax>301</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

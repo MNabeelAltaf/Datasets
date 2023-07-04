@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>anger_train_pics(65).jpg</filename>
+	<path>/my-project-name/anger_train_pics(65).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>746</width>
+		<height>746</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Anger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>107</ymin>
+			<xmax>623</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

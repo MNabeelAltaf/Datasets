@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>happy_train_pic(6).JPG</filename>
+	<path>/my-project-name/happy_train_pic(6).JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>821</width>
+		<height>821</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>121</ymin>
+			<xmax>785</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+</annotation>

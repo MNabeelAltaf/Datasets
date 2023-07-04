@@ -1,0 +1,25 @@
+<annotation>
+	<folder>child_train_labels</folder>
+	<filename>child_age_train_pics(41).jpg</filename>
+	<path>/child_train_labels/child_age_train_pics(41).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2075</width>
+		<height>2300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>78</ymin>
+			<xmax>1903</xmax>
+			<ymax>2144</ymax>
+		</bndbox>
+	</object>
+</annotation>
